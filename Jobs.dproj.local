@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021-09-12 23:34:24.000.685,=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021-09-12 23:34:54.000.964,=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021-09-13 00:53:54.000.764,=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021-09-14 08:19:55.000.335,=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021-09-14 09:43:26.000.116,=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021-09-14 16:43:51.000.097,=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021-09-16 15:07:26.000.725,=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\WebModuleUnit1.pas</Transaction>
+    <Transaction>2021-09-16 15:11:26.000.216,=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021-09-16 15:11:26.000.163,=emsserverapi.dcp</Transaction>
+    <Transaction>2021-09-16 15:14:08.000.576,=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021-09-16 15:24:27.000.869,=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\FormUnit1.pas</Transaction>
+    <Transaction>2021-09-16 15:24:28.000.246,=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\WebModuleUnit1.pas</Transaction>
+    <Transaction>2021-09-16 15:29:35.000.677,=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\WebModuleUnit1.pas</Transaction>
+    <Transaction>2021-09-16 15:29:35.000.845,=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\ServerConst1.pas</Transaction>
+    <Transaction>2021-09-17 14:08:00.000.020,=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\FormUnit1.pas</Transaction>
+    <Transaction>2021-09-17 14:08:00.000.442,=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\WebModuleUnit1.pas</Transaction>
+    <Transaction>2021-09-18 09:26:07.000.441,=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021-09-18 09:35:02.000.257,=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021-09-18 11:01:25.000.305,=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021-09-18 16:04:33.000.062,=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021-09-29 22:32:42.000.869,=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021-09-30 17:32:12.000.885,=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021-09-30 17:35:08.000.440,C:\Users\Administrator\Desktop\Jobz\jobs_main.pas=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021-09-30 17:35:08.000.440,C:\Users\Administrator\Desktop\Jobz\jobs_main.fmx=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2021-09-30 17:35:18.000.180,C:\Users\Administrator\Desktop\Jobz\Jobs.dproj=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2021-09-30 21:16:41.000.824,=C:\Users\Administrator\Desktop\Jobz\Unit2.pas</Transaction>
+    <Transaction>2021-09-30 21:19:55.000.712,C:\Users\Administrator\Desktop\Jobz\jobs_brow.pas=C:\Users\Administrator\Desktop\Jobz\Unit2.pas</Transaction>
+    <Transaction>2021-09-30 21:19:55.000.712,C:\Users\Administrator\Desktop\Jobz\jobs_brow.fmx=C:\Users\Administrator\Desktop\Jobz\Unit2.fmx</Transaction>
+    <Transaction>2021-10-01 17:39:17.000.349,=C:\Users\Administrator\Desktop\Jobz\files\assets\css\styles.min.css</Transaction>
+    <Transaction>2021-10-01 17:39:36.000.945,=C:\Users\Administrator\Desktop\Jobz\files\assets\fonts\fontawesome5-overrides.min.css</Transaction>
+    <Transaction>2021-10-01 17:39:51.000.235,C:\Users\Administrator\Desktop\Jobz\files\assets\css\styles.min.css=</Transaction>
+    <Transaction>2021-10-01 17:39:54.000.336,C:\Users\Administrator\Desktop\Jobz\files\assets\fonts\fontawesome5-overrides.min.css=</Transaction>
+    <Transaction>2021-10-01 17:40:59.000.636,=C:\Users\Administrator\Desktop\Jobz\assets\fonts\fontawesome5-overrides.min.css</Transaction>
+    <Transaction>2021-10-01 17:41:10.000.699,=C:\Users\Administrator\Desktop\Jobz\assets\css\styles.min.css</Transaction>
+    <Transaction>2021-10-01 17:41:23.000.805,=C:\Users\Administrator\Desktop\Jobz\index.html</Transaction>
+    <Transaction>2021-10-01 18:56:31.000.445,=C:\Users\Administrator\Desktop\Jobz\files\assets\css\styles.min.css</Transaction>
+    <Transaction>2021-10-01 18:56:41.000.573,=C:\Users\Administrator\Desktop\Jobz\files\assets\fonts\fontawesome5-overrides.min.css</Transaction>
+    <Transaction>2021-10-01 18:56:47.000.988,=C:\Users\Administrator\Desktop\Jobz\files\index.html</Transaction>
+    <Transaction>2021-10-02 10:25:20.000.061,C:\Users\Administrator\Desktop\Jobz\files\index.html=</Transaction>
+    <Transaction>2021-10-02 10:25:25.000.672,C:\Users\Administrator\Desktop\Jobz\files\assets\fonts\fontawesome5-overrides.min.css=</Transaction>
+    <Transaction>2021-10-02 10:25:29.000.266,C:\Users\Administrator\Desktop\Jobz\files\assets\css\styles.min.css=</Transaction>
+    <Transaction>2021-10-02 11:15:52.000.801,=C:\Users\Administrator\Desktop\Jobz\files\index.html</Transaction>
+    <Transaction>2021-10-02 18:25:50.000.740,=C:\Users\Administrator\Desktop\Jobz\Unit3.pas</Transaction>
+    <Transaction>2021-10-02 18:26:08.000.140,C:\Users\Administrator\Desktop\Jobz\Unit3.pas=C:\Users\Administrator\Desktop\Jobz\jobs_profile.pas</Transaction>
+    <Transaction>2021-10-02 18:26:08.000.140,C:\Users\Administrator\Desktop\Jobz\Unit3.fmx=C:\Users\Administrator\Desktop\Jobz\jobs_profile.fmx</Transaction>
+    <Transaction>2021-10-02 19:08:02.000.642,C:\Users\Administrator\Desktop\Jobz\files\index.html=</Transaction>
+    <Transaction>2021-10-04 20:35:23.000.321,=C:\Users\Administrator\Desktop\Jobz\Unit4.pas</Transaction>
+    <Transaction>2021-10-04 20:36:12.000.983,C:\Users\Administrator\Desktop\Jobz\jobs_input.pas=C:\Users\Administrator\Desktop\Jobz\Unit4.pas</Transaction>
+    <Transaction>2021-10-04 20:36:12.000.983,C:\Users\Administrator\Desktop\Jobz\jobs_input.fmx=C:\Users\Administrator\Desktop\Jobz\Unit4.fmx</Transaction>
+    <Transaction>2021-10-04 20:56:35.000.712,=C:\Users\Administrator\Desktop\Jobz\Unit5.pas</Transaction>
+    <Transaction>2021-10-04 20:57:36.000.454,C:\Users\Administrator\Desktop\Jobz\Unit5.pas=C:\Users\Administrator\Desktop\Jobz\jobs_editin.pas</Transaction>
+    <Transaction>2021-10-04 20:57:36.000.454,C:\Users\Administrator\Desktop\Jobz\Unit5.fmx=C:\Users\Administrator\Desktop\Jobz\jobs_editin.fmx</Transaction>
+    <Transaction>2021-10-04 21:03:57.000.887,=C:\Users\Administrator\Desktop\Jobz\Unit4.pas</Transaction>
+    <Transaction>2021-10-04 21:11:51.000.574,=C:\Users\Administrator\Desktop\Jobz\Unit4.pas</Transaction>
+    <Transaction>2021-10-04 21:11:59.000.436,C:\Users\Administrator\Desktop\Jobz\Unit4.fmx=C:\Users\Administrator\Desktop\Jobz\jobs_input.fmx</Transaction>
+    <Transaction>2021-10-04 21:11:59.000.436,C:\Users\Administrator\Desktop\Jobz\Unit4.pas=C:\Users\Administrator\Desktop\Jobz\jobs_input.pas</Transaction>
+    <Transaction>2021-10-11 10:06:59.000.903,=C:\Users\Administrator\Desktop\Jobz\Unit1.pas</Transaction>
+    <Transaction>2021-10-11 10:08:18.000.044,C:\Users\Administrator\Desktop\Jobz\Unit1.pas=C:\Users\Administrator\Desktop\Jobz\jobs_thread.pas</Transaction>
+    <Transaction>2021-10-11 17:01:20.000.623,C:\Users\Administrator\Desktop\Jobz\jobs_API_thread.pas=C:\Users\Administrator\Desktop\Jobz\jobs_thread.pas</Transaction>
+    <Transaction>2021-10-11 17:04:14.000.394,C:\Users\Administrator\Desktop\Jobz\hread.pas=C:\Users\Administrator\Desktop\Jobz\jobs_API_thread.pas</Transaction>
+    <Transaction>2021-10-11 17:04:47.000.429,=C:\Users\Administrator\Desktop\Jobz\Unit1.pas</Transaction>
+    <Transaction>2021-10-11 17:05:27.000.744,=C:\Users\Administrator\Desktop\Jobz\Unit1.pas</Transaction>
+    <Transaction>2021-10-11 17:05:52.000.771,C:\Users\Administrator\Desktop\Jobz\jobs_apikey.pas=C:\Users\Administrator\Desktop\Jobz\Unit1.pas</Transaction>
+    <Transaction>2021-10-11 17:06:55.000.471,C:\Users\Administrator\Desktop\Jobz\hread.pas=</Transaction>
+    <Transaction>2021-10-11 17:08:29.000.086,=C:\Users\Administrator\Desktop\Jobz\Unit1.pas</Transaction>
+    <Transaction>2021-10-11 17:08:56.000.635,C:\Users\Administrator\Desktop\Jobz\jobs_apireq.pas=C:\Users\Administrator\Desktop\Jobz\Unit1.pas</Transaction>
+    <Transaction>2021-10-19 11:14:46.000.595,=C:\Users\Administrator\Desktop\Jobz\profiles</Transaction>
+    <Transaction>2021-10-19 13:41:03.000.553,=C:\Users\Administrator\Desktop\Jobz\bookma</Transaction>
+    <Transaction>2021-10-19 13:43:45.000.646,C:\Users\Administrator\Desktop\Jobz\bookma=C:\Users\Administrator\Desktop\Jobz\bm</Transaction>
+    <Transaction>2021-10-19 13:44:13.000.902,C:\Users\Administrator\Desktop\Jobz\bm.bm=C:\Users\Administrator\Desktop\Jobz\bmarks.bm</Transaction>
+    <Transaction>2021-10-19 13:44:21.000.276,C:\Users\Administrator\Desktop\Jobz\bmarks.bm=</Transaction>
+    <Transaction>2021-10-19 13:44:36.000.841,=C:\Users\Administrator\Desktop\Jobz\bmarks</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile Android="115ae35c" Android64="115ae35c"/>
+	</ActiveMobileDevice>
+</BorlandProject>
